@@ -51,7 +51,7 @@ Currently **Team Lead — DevOps & Cloud** at Ortler Solution.
 
 <table>
   <tr>
-    <td align="center" width="96"><img src="[https://skillicons.dev/icons?i=aws](https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667)" width="46" height="46" alt="AWS"><br><sub><b>AWS</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="46" height="46" alt="AWS"><br><sub><b>AWS</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="46" height="46" alt="Terraform"><br><sub><b>Terraform</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ansible" width="46" height="46" alt="Ansible"><br><sub><b>Ansible</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="46" height="46" alt="Linux"><br><sub><b>Linux</b></sub></td>
@@ -280,14 +280,21 @@ Built responsive web applications with HTML5, CSS3/SASS, JavaScript, React and A
 
 ---
 
-## GitHub Activity
+## Education
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vkmohan2007&show_icons=true&hide_border=true&theme=tokyonight&icon_color=FF9900&title_color=2088FF" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkmohan2007&layout=compact&hide_border=true&theme=tokyonight&title_color=2088FF" alt="Top languages">
-</p>
+- **Bachelor's Degree** — Osmania University
+- **Post Graduate Diploma in Computer Applications (PGDCA)**
+- **Diploma in Multimedia**
 
 ---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:vkmohan.in@gmail.com"><img src="https://img.shields.io/badge/Email-vkmohan.in%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/vkmohan2007"><img src="https://img.shields.io/badge/GitHub-vkmohan2007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 <p align="center">
   <sub>Based in India · Open to DevOps, DevSecOps and Cloud engineering conversations</sub>
