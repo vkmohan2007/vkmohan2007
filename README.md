@@ -119,7 +119,7 @@ Currently **Team Lead — DevOps & Cloud** at Ortler Solution.
 <p>
   <img src="https://img.shields.io/badge/SonarQube-SAST_%2B_Quality_Gates-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube-SAST %2B Quality Gates">
   <img src="https://img.shields.io/badge/Trivy-Container_Scanning-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy-Container Scanning">
-  <img src="https://img.shields.io/badge/OWASP-Dependency--Check-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP-Dependency--Check">
+  <img src="https://img.shields.io/badge/OWASP-Dependency--Check-B71C1C?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP-Dependency--Check">
 </p>
 
 > SAST · Container image scanning · Quality gates · Secrets management · IAM least-privilege · Secure configuration baselines · Vulnerability management
