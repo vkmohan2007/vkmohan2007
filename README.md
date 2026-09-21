@@ -51,7 +51,7 @@ Currently **Team Lead — DevOps & Cloud** at Ortler Solution.
 
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="46" height="46" alt="AWS"><br><sub><b>AWS</b></sub></td>
+    <td align="center" width="96"><img src="[https://skillicons.dev/icons?i=aws](https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667)" width="46" height="46" alt="AWS"><br><sub><b>AWS</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=terraform" width="46" height="46" alt="Terraform"><br><sub><b>Terraform</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ansible" width="46" height="46" alt="Ansible"><br><sub><b>Ansible</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="46" height="46" alt="Linux"><br><sub><b>Linux</b></sub></td>
