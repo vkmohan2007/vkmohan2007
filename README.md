@@ -292,7 +292,7 @@ Built responsive web applications with HTML5, CSS3/SASS, JavaScript, React and A
 
 <p align="center">
   <a href="mailto:vkmohan.in@gmail.com"><img src="https://img.shields.io/badge/Email-vkmohan.in%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/iamvkmohan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/vkmohan2007"><img src="https://img.shields.io/badge/GitHub-vkmohan2007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
